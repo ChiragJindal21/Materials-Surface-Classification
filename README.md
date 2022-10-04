@@ -6,7 +6,7 @@ The aim of this project is to classify surfaces based on certain features such a
 4. Image
 
 ![Acceleration](https://github.com/ChiragJindal21/Materials-Surface-Classification/blob/main/Acceleration.png)
-![Image](http://url/to/img.png)
+
 Variuos ML models are used for classification, namely:
 1. Logistic Regression
 2. Random Forest Classifier
